@@ -1,0 +1,12 @@
+F:\GitHub\Trenes-challengue\Entidades\bin\Debug\net6.0\Entidades.deps.json
+F:\GitHub\Trenes-challengue\Entidades\bin\Debug\net6.0\Entidades.dll
+F:\GitHub\Trenes-challengue\Entidades\bin\Debug\net6.0\Entidades.pdb
+F:\GitHub\Trenes-challengue\Entidades\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+F:\GitHub\Trenes-challengue\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Trenes-challengue\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+F:\GitHub\Trenes-challengue\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+F:\GitHub\Trenes-challengue\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+F:\GitHub\Trenes-challengue\Entidades\obj\Debug\net6.0\Entidades.dll
+F:\GitHub\Trenes-challengue\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+F:\GitHub\Trenes-challengue\Entidades\obj\Debug\net6.0\Entidades.pdb
+F:\GitHub\Trenes-challengue\Entidades\obj\Debug\net6.0\ref\Entidades.dll
