@@ -46,7 +46,7 @@ const Tren = () => {
     };
 
     const agregarVagonDerecha = vagonId => {
-        fetch(`/api/tren/addIzq/${vagonId}`, { method: 'POST' })
+        fetch(`/api/tren/addDer/${vagonId}`, { method: 'POST' })
             .then(response => response.json())
             .then(data => setTren(data))
             .catch(error => setError(true));
